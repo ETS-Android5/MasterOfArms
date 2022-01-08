@@ -1,0 +1,273 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml:2:1-46:12
+MERGED from [com.github.santalu:mask-edittext:1.0.2] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\3b520aa3c65c4d33635f1cd3063e3444\AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\d2731efab363f04be6499ada421fc641\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\27eba2a6b108d5916d41cbbaf377ff47\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\1af1d921950acb7a0c920965ed68bf2f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.barteksc:android-pdf-viewer:2.8.2] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\a18a00eb96c6cd8de8204e4b01c71d83\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.chrisbanes:PhotoView:2.1.3] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\47480476c658dcaea37b645fe0088b03\AndroidManifest.xml:2:1-12:12
+MERGED from [com.github.barteksc:pdfium-android:1.7.1] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\a292ed2d68a10ad33a196a868d1f4574\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\3857d67d37b39037fcd3d03d158aa198\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\eeffbbc7fc96a1e59db5ac0433542c82\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\ce9f280db42b1ab446917ace4b09118b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\314a777f919e926120536c8d2be3bd07\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\f87efba04912991714ec094e90c665ae\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\1f0b17aeb1d5a4c93e05066e8c8cc444\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\3b05a4a0039751dc4a54778ac886df1d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\8858c3c4ad33f8926b3371020390b419\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\bc0089c083a92a3531a8fcfc93620ca8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\37d2c134c2305af93e0af6f23f1d0c96\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\6fd95b664fd20d80fb2baf849b1936a6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\c8e2836d331e7f4b0e030990d53b48b4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\43d70972c5575980c497ea7a379b871c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\98cab1ebbb4ed1aebdc83cec694387cc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\36750a6e85520a21e9bcdd992213d61b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\05c373e662b522a4928698656bfbf167\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\2a70dfed751e98989e0e71783c12d1f1\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\01dd1e537f6464c1e2a9ef431eba3237\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\2542cdf1bc32a753f338ca30f87732cf\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\1a4a5782218580fb9d0591d7e6785614\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\c973a8818faa6e5e09fd6c3af7a199ad\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\b292e26927cad4fb957d1d61311f9e43\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\fc7a8dd73676fa1d33e0dad721e1d025\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\bf3687a1186f2aeb00293991d1d55817\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\ed8651fc3953efa924f1fc1ccd4dff3e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\10995933dfab10f5143a7cd2ea775638\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\e7f7fe0583fee6ec9bf32b00fb78137a\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml:2:1-46:12
+	package
+		ADDED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml:2:1-46:12
+		INJECTED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml:2:1-46:12
+		INJECTED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml:5:5-80
+	android:name
+		ADDED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml:5:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.SEND_SMS
+ADDED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml:8:5-70
+	android:name
+		ADDED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml:8:22-67
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml:9:22-64
+uses-permission#android.permission.READ_INTERNAL_STORAGE
+ADDED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml:10:22-77
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.CALL_PHONE
+ADDED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml:12:5-69
+	android:name
+		ADDED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml:12:22-66
+application
+ADDED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml:14:5-44:19
+MERGED from [com.github.santalu:mask-edittext:1.0.2] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\3b520aa3c65c4d33635f1cd3063e3444\AndroidManifest.xml:12:5-20
+MERGED from [com.github.santalu:mask-edittext:1.0.2] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\3b520aa3c65c4d33635f1cd3063e3444\AndroidManifest.xml:12:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\27eba2a6b108d5916d41cbbaf377ff47\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\27eba2a6b108d5916d41cbbaf377ff47\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.1] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\05c373e662b522a4928698656bfbf167\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\05c373e662b522a4928698656bfbf167\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\2a70dfed751e98989e0e71783c12d1f1\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\2a70dfed751e98989e0e71783c12d1f1\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\05c373e662b522a4928698656bfbf167\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml:19:9-35
+	android:label
+		ADDED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml:17:9-41
+	android:roundIcon
+		ADDED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml:18:9-54
+	android:icon
+		ADDED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml:16:9-43
+	android:allowBackup
+		ADDED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml:20:9-40
+activity#com.example.shootingranges.CancelSlotActivity
+ADDED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml:21:9-65
+	android:name
+		ADDED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml:21:19-53
+activity#com.example.shootingranges.FullScreenActivity
+ADDED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml:22:9-56
+	android:name
+		ADDED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml:22:19-53
+activity#com.example.shootingranges.AboutUsActivity
+ADDED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml:23:9-53
+	android:name
+		ADDED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml:23:19-50
+activity#com.example.shootingranges.PDFViewActivity
+ADDED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml:24:9-53
+	android:name
+		ADDED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml:24:19-50
+activity#com.example.shootingranges.MatchesActivity
+ADDED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml:25:9-53
+	android:name
+		ADDED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml:25:19-50
+activity#com.example.shootingranges.UploadActivity
+ADDED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml:26:9-52
+	android:name
+		ADDED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml:26:19-49
+activity#com.example.shootingranges.SlotActivity
+ADDED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml:27:9-50
+	android:name
+		ADDED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml:27:19-47
+activity#com.example.shootingranges.PelletActivity
+ADDED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml:28:9-52
+	android:name
+		ADDED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml:28:19-49
+activity#com.example.shootingranges.MenuActivity
+ADDED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml:29:9-50
+	android:name
+		ADDED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml:29:19-47
+activity#com.example.shootingranges.MainMenuActivity
+ADDED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml:30:9-54
+	android:name
+		ADDED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml:30:19-51
+activity#com.example.shootingranges.BasicActivity2
+ADDED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml:31:9-52
+	android:name
+		ADDED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml:31:19-49
+activity#com.example.shootingranges.BasicActivity
+ADDED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml:32:9-51
+	android:name
+		ADDED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml:32:19-48
+activity#com.example.shootingranges.AdvanceActivity2
+ADDED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml:33:9-54
+	android:name
+		ADDED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml:33:19-51
+activity#com.example.shootingranges.AdvanceActivity
+ADDED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml:34:9-53
+	android:name
+		ADDED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml:34:19-50
+activity#com.example.shootingranges.RegisterActivity
+ADDED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml:35:9-54
+	android:name
+		ADDED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml:35:19-51
+activity#com.example.shootingranges.LoginActivity
+ADDED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml:36:9-51
+	android:name
+		ADDED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml:36:19-48
+activity#com.example.shootingranges.SplashActivity
+ADDED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml:37:9-43:20
+	android:name
+		ADDED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml:37:19-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml:38:13-42:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml:39:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml:41:17-77
+	android:name
+		ADDED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml:41:27-74
+uses-sdk
+INJECTED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml
+MERGED from [com.github.santalu:mask-edittext:1.0.2] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\3b520aa3c65c4d33635f1cd3063e3444\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.santalu:mask-edittext:1.0.2] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\3b520aa3c65c4d33635f1cd3063e3444\AndroidManifest.xml:8:5-10:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\d2731efab363f04be6499ada421fc641\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\d2731efab363f04be6499ada421fc641\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\27eba2a6b108d5916d41cbbaf377ff47\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\27eba2a6b108d5916d41cbbaf377ff47\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\1af1d921950acb7a0c920965ed68bf2f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\1af1d921950acb7a0c920965ed68bf2f\AndroidManifest.xml:20:5-44
+MERGED from [com.github.barteksc:android-pdf-viewer:2.8.2] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\a18a00eb96c6cd8de8204e4b01c71d83\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.barteksc:android-pdf-viewer:2.8.2] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\a18a00eb96c6cd8de8204e4b01c71d83\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.chrisbanes:PhotoView:2.1.3] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\47480476c658dcaea37b645fe0088b03\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.chrisbanes:PhotoView:2.1.3] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\47480476c658dcaea37b645fe0088b03\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.barteksc:pdfium-android:1.7.1] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\a292ed2d68a10ad33a196a868d1f4574\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.barteksc:pdfium-android:1.7.1] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\a292ed2d68a10ad33a196a868d1f4574\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\3857d67d37b39037fcd3d03d158aa198\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\3857d67d37b39037fcd3d03d158aa198\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\eeffbbc7fc96a1e59db5ac0433542c82\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\eeffbbc7fc96a1e59db5ac0433542c82\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\ce9f280db42b1ab446917ace4b09118b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\ce9f280db42b1ab446917ace4b09118b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\314a777f919e926120536c8d2be3bd07\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\314a777f919e926120536c8d2be3bd07\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\f87efba04912991714ec094e90c665ae\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\f87efba04912991714ec094e90c665ae\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\1f0b17aeb1d5a4c93e05066e8c8cc444\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\1f0b17aeb1d5a4c93e05066e8c8cc444\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\3b05a4a0039751dc4a54778ac886df1d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\3b05a4a0039751dc4a54778ac886df1d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\8858c3c4ad33f8926b3371020390b419\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\8858c3c4ad33f8926b3371020390b419\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\bc0089c083a92a3531a8fcfc93620ca8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\bc0089c083a92a3531a8fcfc93620ca8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\37d2c134c2305af93e0af6f23f1d0c96\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\37d2c134c2305af93e0af6f23f1d0c96\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\6fd95b664fd20d80fb2baf849b1936a6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\6fd95b664fd20d80fb2baf849b1936a6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\c8e2836d331e7f4b0e030990d53b48b4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\c8e2836d331e7f4b0e030990d53b48b4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\43d70972c5575980c497ea7a379b871c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\43d70972c5575980c497ea7a379b871c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\98cab1ebbb4ed1aebdc83cec694387cc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\98cab1ebbb4ed1aebdc83cec694387cc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\36750a6e85520a21e9bcdd992213d61b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\36750a6e85520a21e9bcdd992213d61b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\05c373e662b522a4928698656bfbf167\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\05c373e662b522a4928698656bfbf167\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\2a70dfed751e98989e0e71783c12d1f1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\2a70dfed751e98989e0e71783c12d1f1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\01dd1e537f6464c1e2a9ef431eba3237\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\01dd1e537f6464c1e2a9ef431eba3237\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\2542cdf1bc32a753f338ca30f87732cf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\2542cdf1bc32a753f338ca30f87732cf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\1a4a5782218580fb9d0591d7e6785614\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\1a4a5782218580fb9d0591d7e6785614\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\c973a8818faa6e5e09fd6c3af7a199ad\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\c973a8818faa6e5e09fd6c3af7a199ad\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\b292e26927cad4fb957d1d61311f9e43\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\b292e26927cad4fb957d1d61311f9e43\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\fc7a8dd73676fa1d33e0dad721e1d025\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\fc7a8dd73676fa1d33e0dad721e1d025\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\bf3687a1186f2aeb00293991d1d55817\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\bf3687a1186f2aeb00293991d1d55817\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\ed8651fc3953efa924f1fc1ccd4dff3e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\ed8651fc3953efa924f1fc1ccd4dff3e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\10995933dfab10f5143a7cd2ea775638\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\10995933dfab10f5143a7cd2ea775638\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\e7f7fe0583fee6ec9bf32b00fb78137a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\thora\.gradle\caches\transforms-2\files-2.1\e7f7fe0583fee6ec9bf32b00fb78137a\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\thora\AndroidStudioProjects\ShootingRanges\app\src\main\AndroidManifest.xml

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.santalu:mask-edittext:1.1.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f7d8f65df98851432483005a21d93c97/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f7d8f65df98851432483005a21d93c97/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.santalu/mask-edittext/1.1.1/73d9f148e73e64f0d144f894d9549b0e1930a491/mask-edittext-1.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

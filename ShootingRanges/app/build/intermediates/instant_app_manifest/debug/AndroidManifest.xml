@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.shootingranges"
+    android:targetSandboxVersion="2"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="29" />
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.RECEIVE_SMS" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_INTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="com.example.shootingranges.CancelSlotActivity" />
+        <activity android:name="com.example.shootingranges.FullScreenActivity" />
+        <activity android:name="com.example.shootingranges.AboutUsActivity" />
+        <activity android:name="com.example.shootingranges.PDFViewActivity" />
+        <activity android:name="com.example.shootingranges.MatchesActivity" />
+        <activity android:name="com.example.shootingranges.UploadActivity" />
+        <activity android:name="com.example.shootingranges.SlotActivity" />
+        <activity android:name="com.example.shootingranges.PelletActivity" />
+        <activity android:name="com.example.shootingranges.MenuActivity" />
+        <activity android:name="com.example.shootingranges.MainMenuActivity" />
+        <activity android:name="com.example.shootingranges.BasicActivity2" />
+        <activity android:name="com.example.shootingranges.BasicActivity" />
+        <activity android:name="com.example.shootingranges.AdvanceActivity2" />
+        <activity android:name="com.example.shootingranges.AdvanceActivity" />
+        <activity android:name="com.example.shootingranges.RegisterActivity" />
+        <activity android:name="com.example.shootingranges.LoginActivity" />
+        <activity android:name="com.example.shootingranges.SplashActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

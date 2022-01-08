@@ -1,0 +1,4 @@
+#Wed Oct 16 19:46:35 IST 2019
+base.0=C\:\\Users\\thora\\AndroidStudioProjects\\ShootingRanges\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\4
+path.0=classes.dex
+renamed.0=classes.dex

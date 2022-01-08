@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainMenuActivity"
+    android:background="@drawable/background">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="-280dp"
+        android:layout_marginTop="62sp"
+        android:background="@drawable/menu_semi_circle" />
+
+
+    <Button
+        android:id="@+id/btnPellet"
+        android:layout_width="125dp"
+        android:layout_height="125dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/round_button"
+        android:drawablePadding="100dp"
+        android:text="Pellet Ordering"
+        android:textColor="#E3F2FD"
+        android:textSize="20sp"
+        android:onClick="pelletbooking"/>
+
+    <Button
+        android:id="@+id/btnSlot"
+        android:layout_width="125dp"
+        android:layout_height="125dp"
+        android:layout_below="@+id/btnPellet"
+        android:layout_marginLeft="150dp"
+        android:layout_marginTop="3dp"
+        android:background="@drawable/round_button"
+        android:drawablePadding="100dp"
+        android:text="Slot Booking"
+        android:textColor="#E3F2FD"
+        android:textSize="20sp"
+        android:onClick="slotbooking"/>
+
+    <Button
+        android:id="@+id/btnMatches"
+        android:layout_width="125dp"
+        android:layout_height="125dp"
+        android:layout_marginLeft="150dp"
+        android:layout_marginTop="325dp"
+        android:background="@drawable/round_button"
+        android:drawablePadding="100dp"
+        android:text="Matches"
+        android:textColor="#E3F2FD"
+        android:textSize="20sp"
+        android:onClick="matches"/>
+
+
+    <Button
+        android:id="@+id/btnAboutUs"
+        android:layout_width="125dp"
+        android:layout_height="125dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="450dp"
+        android:background="@drawable/round_button"
+        android:drawablePadding="100dp"
+        android:text="About Us"
+        android:textColor="#E3F2FD"
+        android:textSize="20sp"
+        android:onClick="aboutUs"/>
+
+</RelativeLayout>
